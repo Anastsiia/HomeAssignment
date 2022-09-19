@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{81C6D809-55C7-4F1C-BD4E-C566D436368F}|Default">
+  <MonoDevelop.Ide.ItemProperties.ex2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ex2/Program.cs">
+    <Files>
+      <File FileName="ex2/Program.cs" Line="5" Column="38" />
+      <File FileName="ex2/BaseExecutor.cs" Line="2" Column="14" />
+      <File FileName="ex2/ContactBL.cs" Line="2" Column="14" />
+      <File FileName="ex2/IExecute.cs" Line="2" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ex2" expanded="True">
+            <Node name="ex2" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
