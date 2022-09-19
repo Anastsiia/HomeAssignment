@@ -27,7 +27,7 @@ namespace ex1
             int i = -1;
 
             while (!indexDict.ContainsKey(i))
-                i = rnd.Next(0, TotalRecords);
+                i = rnd.Next(0, TotalRecords); //generate a random index within the range until we find an existing one
             return new KeyValuePair<int, T>(i, indexDict[i]);
         }
 
