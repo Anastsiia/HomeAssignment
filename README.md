@@ -27,5 +27,4 @@ Example:
 
 [3, -1, 4, -8, 2] - > start = 0, end = 2 (3, -1, 4)
 [-5, -3, -2, -7] -> start = 2, end =2 (-2)
-![image](https://user-images.githubusercontent.com/78366371/195562033-05db4ec8-ec96-4aff-8f9f-cd470eed02fd.png)
 
