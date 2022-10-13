@@ -1,9 +1,10 @@
 ﻿<Properties StartupConfiguration="{24AE3BF5-3BD0-466B-96B7-2A3A177E7D91}|Default">
+  <MonoDevelop.Ide.ItemProperties.ex3 PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.Workbench ActiveDocument="ex3/Program.cs">
     <Files>
-      <File FileName="ex3/Program.cs" Line="38" Column="20" />
+      <File FileName="ex3/Program.cs" Line="32" Column="2" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -18,8 +19,7 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.ex3 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

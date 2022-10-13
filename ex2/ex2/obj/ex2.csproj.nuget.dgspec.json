@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/nikitapimkin/Projects/ex2/ex2/ex2.csproj": {}
+    "/Users/nikitapimkin/Desktop/C# + Unity/Projects/HomeTest/ex2/ex2/ex2.csproj": {}
   },
   "projects": {
-    "/Users/nikitapimkin/Projects/ex2/ex2/ex2.csproj": {
+    "/Users/nikitapimkin/Desktop/C# + Unity/Projects/HomeTest/ex2/ex2/ex2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/nikitapimkin/Projects/ex2/ex2/ex2.csproj",
+        "projectUniqueName": "/Users/nikitapimkin/Desktop/C# + Unity/Projects/HomeTest/ex2/ex2/ex2.csproj",
         "projectName": "ex2",
-        "projectPath": "/Users/nikitapimkin/Projects/ex2/ex2/ex2.csproj",
+        "projectPath": "/Users/nikitapimkin/Desktop/C# + Unity/Projects/HomeTest/ex2/ex2/ex2.csproj",
         "packagesPath": "/Users/nikitapimkin/.nuget/packages/",
-        "outputPath": "/Users/nikitapimkin/Projects/ex2/ex2/obj/",
+        "outputPath": "/Users/nikitapimkin/Desktop/C# + Unity/Projects/HomeTest/ex2/ex2/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/nikitapimkin/.nuget/NuGet/NuGet.Config"

@@ -13,3 +13,18 @@
 /Users/nikitapimkin/Projects/ex1/ex1/obj/Debug/net6.0/ex1.pdb
 /Users/nikitapimkin/Projects/ex1/ex1/obj/Debug/net6.0/ex1.genruntimeconfig.cache
 /Users/nikitapimkin/Projects/ex1/ex1/obj/Debug/net6.0/ref/ex1.dll
+/Users/nikitapimkin/Desktop/C# + Unity/Projects/HomeTest/ex1/ex1/bin/Debug/net6.0/ex1
+/Users/nikitapimkin/Desktop/C# + Unity/Projects/HomeTest/ex1/ex1/bin/Debug/net6.0/ex1.deps.json
+/Users/nikitapimkin/Desktop/C# + Unity/Projects/HomeTest/ex1/ex1/bin/Debug/net6.0/ex1.runtimeconfig.json
+/Users/nikitapimkin/Desktop/C# + Unity/Projects/HomeTest/ex1/ex1/bin/Debug/net6.0/ex1.dll
+/Users/nikitapimkin/Desktop/C# + Unity/Projects/HomeTest/ex1/ex1/bin/Debug/net6.0/ex1.pdb
+/Users/nikitapimkin/Desktop/C# + Unity/Projects/HomeTest/ex1/ex1/obj/Debug/net6.0/ex1.csproj.AssemblyReference.cache
+/Users/nikitapimkin/Desktop/C# + Unity/Projects/HomeTest/ex1/ex1/obj/Debug/net6.0/ex1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nikitapimkin/Desktop/C# + Unity/Projects/HomeTest/ex1/ex1/obj/Debug/net6.0/ex1.AssemblyInfoInputs.cache
+/Users/nikitapimkin/Desktop/C# + Unity/Projects/HomeTest/ex1/ex1/obj/Debug/net6.0/ex1.AssemblyInfo.cs
+/Users/nikitapimkin/Desktop/C# + Unity/Projects/HomeTest/ex1/ex1/obj/Debug/net6.0/ex1.csproj.CoreCompileInputs.cache
+/Users/nikitapimkin/Desktop/C# + Unity/Projects/HomeTest/ex1/ex1/obj/Debug/net6.0/ex1.dll
+/Users/nikitapimkin/Desktop/C# + Unity/Projects/HomeTest/ex1/ex1/obj/Debug/net6.0/refint/ex1.dll
+/Users/nikitapimkin/Desktop/C# + Unity/Projects/HomeTest/ex1/ex1/obj/Debug/net6.0/ex1.pdb
+/Users/nikitapimkin/Desktop/C# + Unity/Projects/HomeTest/ex1/ex1/obj/Debug/net6.0/ex1.genruntimeconfig.cache
+/Users/nikitapimkin/Desktop/C# + Unity/Projects/HomeTest/ex1/ex1/obj/Debug/net6.0/ref/ex1.dll

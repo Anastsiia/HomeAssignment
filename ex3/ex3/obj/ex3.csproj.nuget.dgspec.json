@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/nikitapimkin/Projects/ex3/ex3/ex3.csproj": {}
+    "/Users/nikitapimkin/Desktop/C# + Unity/Projects/HomeTest/ex3/ex3/ex3.csproj": {}
   },
   "projects": {
-    "/Users/nikitapimkin/Projects/ex3/ex3/ex3.csproj": {
+    "/Users/nikitapimkin/Desktop/C# + Unity/Projects/HomeTest/ex3/ex3/ex3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/nikitapimkin/Projects/ex3/ex3/ex3.csproj",
+        "projectUniqueName": "/Users/nikitapimkin/Desktop/C# + Unity/Projects/HomeTest/ex3/ex3/ex3.csproj",
         "projectName": "ex3",
-        "projectPath": "/Users/nikitapimkin/Projects/ex3/ex3/ex3.csproj",
+        "projectPath": "/Users/nikitapimkin/Desktop/C# + Unity/Projects/HomeTest/ex3/ex3/ex3.csproj",
         "packagesPath": "/Users/nikitapimkin/.nuget/packages/",
-        "outputPath": "/Users/nikitapimkin/Projects/ex3/ex3/obj/",
+        "outputPath": "/Users/nikitapimkin/Desktop/C# + Unity/Projects/HomeTest/ex3/ex3/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/nikitapimkin/.nuget/NuGet/NuGet.Config"
